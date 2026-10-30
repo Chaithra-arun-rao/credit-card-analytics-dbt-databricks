@@ -1,0 +1,9 @@
+customer_id,first_name,last_name,date_of_birth,country,risk_rating,customer_since
+C001,Rahul,Sharma,1990-05-14,India,LOW,2020-01-10
+C002,Priya,Patel,1987-09-22,India,MEDIUM,2018-06-18
+C003,Vikram,Rao,1978-12-02,India,HIGH,2015-03-25
+C004,Meera,Nair,1995-07-30,India,LOW,2022-11-05
+C005,Arjun,Singh,1983-01-19,India,MEDIUM,2017-08-12
+C006,Ananya,Iyer,1992-03-11,India,LOW,2021-02-17
+C007,Rohan,Gupta,1985-08-26,India,HIGH,2016-09-20
+C008,Kavya,Menon,1998-11-09,India,LOW,2024-01-15

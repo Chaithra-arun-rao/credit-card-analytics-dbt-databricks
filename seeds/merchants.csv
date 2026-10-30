@@ -1,0 +1,9 @@
+merchant_id,merchant_name,merchant_category,country
+M001,Amazon,ECOMMERCE,India
+M002,ABC Electronics,ELECTRONICS,India
+M003,Global Store,RETAIL,Singapore
+M004,Food Hub,RESTAURANT,India
+M005,Travel World,TRAVEL,United Kingdom
+M006,City Supermarket,GROCERY,India
+M007,Tech Planet,ELECTRONICS,United States
+M008,Health Pharmacy,PHARMACY,India
