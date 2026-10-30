@@ -1,0 +1,24 @@
+version: 2
+
+sources:
+  - name: banking_raw
+    description: "Raw credit card banking data received from source systems"
+
+    catalog: accenture
+    schema: cc_trans_monitoring
+
+    tables:
+      - name: customers
+        description: "Customer master data"
+
+      - name: credit_cards
+        description: "Customer credit card information"
+
+      - name: merchants
+        description: "Merchant master data"
+
+      - name: transactions
+        description: "Credit card transaction data"
+
+      - name: card_payments
+        description: "Credit card billing and payment data"
